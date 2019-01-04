@@ -1,1 +1,9 @@
+### Eclipse ###
+
+.classpath
+bin/
+tmp/
+.settings/
 /target/
+
+.project
